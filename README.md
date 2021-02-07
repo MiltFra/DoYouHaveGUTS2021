@@ -1,3 +1,5 @@
+This is the README provided with the original project this code is based on:
+
 # A Simple [Battlesnake](http://play.battlesnake.com) Written in Go
 
 This is a basic implementation of the [Battlesnake API](https://docs.battlesnake.com/references/api). It's a great starting point for anyone wanting to program their first Battlesnake using Go. It comes ready to use with [Repl.it](https://repl.it) and provides instructions below for getting started. It can also be deployed to [Heroku](https://heroku.com), or any other cloud provider you'd like.
